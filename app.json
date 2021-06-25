@@ -1,0 +1,12 @@
+{
+  "name": "my-do",
+  "displayName": "my-do",
+  "expo": {
+    "name": "my-do",
+    "slug": "my-do",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
